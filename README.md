@@ -7,7 +7,6 @@ Generative AI and Agentic AI learning project using Python, LangChain, LangGraph
 ### 1. Go to Project
 
 ```powershell
-D:
 cd Agent_AI
 ```
 
